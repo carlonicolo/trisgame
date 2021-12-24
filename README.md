@@ -8,7 +8,3 @@ Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Java
 ## Para rodar o projeto
 
 Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
-
-## Links
-
-[PPT utilizado](https://docs.google.com/presentation/d/1-ao-3echbBHzdSqRF726K4GUFMn7JoL0dhoJWyPORXY/edit?usp=sharing)
