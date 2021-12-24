@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da Velha - Tris game
 
 Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
 
